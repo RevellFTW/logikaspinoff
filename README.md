@@ -1,0 +1,2 @@
+# logikaspinoff
+logikaSpinoffEa
